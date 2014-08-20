@@ -1,0 +1,2 @@
+class IssueHabibsController < ApplicationController
+end

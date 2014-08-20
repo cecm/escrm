@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  senha: MyString
+  privilegio: MyString
+  clientes: MyString
+  admin: false
+
+two:
+  email: MyString
+  senha: MyString
+  privilegio: MyString
+  clientes: MyString
+  admin: false
