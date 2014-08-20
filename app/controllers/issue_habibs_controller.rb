@@ -1,2 +1,0 @@
-class IssueHabibsController < ApplicationController
-end
